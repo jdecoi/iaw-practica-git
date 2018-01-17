@@ -18,11 +18,9 @@ by nelson
 * e3
 
 1. a
-
 2. b
-
 2. c
-3.c
+3. c
 
 [Enlace](http://iescelia.org/aulavirtual/course/view.php?id=36)
 
